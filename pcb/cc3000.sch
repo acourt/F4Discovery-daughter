@@ -324,7 +324,7 @@ F 1 "0R" H 7700 3355 30  0000 C BNN
 	1    0    0    -1  
 $EndComp
 Text Label 5800 4650 3    60   ~ 0
-
+SPI_DIN
 Text Label 6000 4650 3    60   ~ 0
 SPI_CLK
 Text Label 2350 3000 0    60   ~ 0
